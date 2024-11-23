@@ -1,0 +1,17 @@
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\bin\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.exe
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\bin\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.deps.json
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\bin\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.runtimeconfig.json
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\bin\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.dll
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\bin\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.pdb
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\obj\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.Form1.resources
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\obj\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.Properties.Resources.resources
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\obj\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.csproj.GenerateResource.cache
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\obj\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\obj\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.AssemblyInfoInputs.cache
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\obj\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.AssemblyInfo.cs
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\obj\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\obj\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.dll
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\obj\Debug\net8.0-windows\refint\WinFormsImagenesEnUnPictureBox.dll
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\obj\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.pdb
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\obj\Debug\net8.0-windows\WinFormsImagenesEnUnPictureBox.genruntimeconfig.cache
+C:\Users\Erick\Documents\C# en VS\WinFormsImagenesEnUnPictureBox\WinFormsImagenesEnUnPictureBox\obj\Debug\net8.0-windows\ref\WinFormsImagenesEnUnPictureBox.dll
